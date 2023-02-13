@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>    🔭 I’m currently working on FullStack Web2 / Web3 development<br>    🌱 I’m currently learning Astro.js<br>    📫 How to reach me: aydinbahadirtuna@gmail.com<br>
+<br>    🔭 I’m currently working on FullStack Web2 / Web3 development<br>    🌱 I’m currently learning React.js<br>    📫 How to reach me: aydinbahadirtuna@gmail.com<br>
 
 
 ## 🌐 Socials:
